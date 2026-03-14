@@ -12,5 +12,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=AnubhavThakur12&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavThakur12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote Which i take Inspiration From:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
